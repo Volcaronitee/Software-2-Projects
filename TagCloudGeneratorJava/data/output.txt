@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>Top 100 words in data/importance.txt</title>
+<link href="http://web.cse.ohio-state.edu/software/2231/web-sw2/assignments/projects/tag-cloud-generator/data/tagcloud.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>
+Top 100 words in data/importance.txt</h2>
+<hr>
+<div class="cdiv">
+<p class="cbox">
+<span style="cursor:default" class="f11" title="count:1">14th</span>
+<span style="cursor:default" class="f11" title="count:1">accustomed</span>
+<span style="cursor:default" class="f11" title="count:1">addresses</span>
+<span style="cursor:default" class="f11" title="count:2">afternoon</span>
+<span style="cursor:default" class="f11" title="count:1">along</span>
+<span style="cursor:default" class="f11" title="count:1">also</span>
+<span style="cursor:default" class="f11" title="count:1">aware</span>
+<span style="cursor:default" class="f11" title="count:1">before</span>
+<span style="cursor:default" class="f11" title="count:1">behaved</span>
+<span style="cursor:default" class="f11" title="count:1">both</span>
+<span style="cursor:default" class="f14" title="count:5">Bunbury</span>
+<span style="cursor:default" class="f13" title="count:4">butter</span>
+<span style="cursor:default" class="f11" title="count:1">buttonhole</span>
+<span style="cursor:default" class="f12" title="count:3">can</span>
+<span style="cursor:default" class="f11" title="count:1">carried</span>
+<span style="cursor:default" class="f38" title="count:35">Cecily</span>
+<span style="cursor:default" class="f11" title="count:1">christenings</span>
+<span style="cursor:default" class="f11" title="count:1">daily</span>
+<span style="cursor:default" class="f11" title="count:1">daughter</span>
+<span style="cursor:default" class="f11" title="count:1">day</span>
+<span style="cursor:default" class="f11" title="count:1">death</span>
+<span style="cursor:default" class="f11" title="count:1">deserve</span>
+<span style="cursor:default" class="f11" title="count:1">died</span>
+<span style="cursor:default" class="f11" title="count:1">done</span>
+<span style="cursor:default" class="f11" title="count:1">door</span>
+<span style="cursor:default" class="f11" title="count:1">enough</span>
+<span style="cursor:default" class="f11" title="count:1">expect</span>
+<span style="cursor:default" class="f11" title="count:1">February</span>
+<span style="cursor:default" class="f12" title="count:3">fellow</span>
+<span style="cursor:default" class="f11" title="count:1">first</span>
+<span style="cursor:default" class="f11" title="count:1">follow</span>
+<span style="cursor:default" class="f15" title="count:7">from</span>
+<span style="cursor:default" class="f11" title="count:1">furious</span>
+<span style="cursor:default" class="f11" title="count:1">glad</span>
+<span style="cursor:default" class="f11" title="count:1">Goes</span>
+<span style="cursor:default" class="f11" title="count:2">goes</span>
+<span style="cursor:default" class="f11" title="count:1">gravest</span>
+<span style="cursor:default" class="f11" title="count:1">grieved</span>
+<span style="cursor:default" class="f27" title="count:21">Gwendolen</span>
+<span style="cursor:default" class="f11" title="count:2">hair</span>
+<span style="cursor:default" class="f12" title="count:3">here</span>
+<span style="cursor:default" class="f11" title="count:1">herself</span>
+<span style="cursor:default" class="f14" title="count:5">him</span>
+<span style="cursor:default" class="f11" title="count:2">His</span>
+<span style="cursor:default" class="f17" title="count:9">his</span>
+<span style="cursor:default" class="f11" title="count:1">indignation</span>
+<span style="cursor:default" class="f11" title="count:2">intend</span>
+<span style="cursor:default" class="f47" title="count:45">Jack</span>
+<span style="cursor:default" class="f11" title="count:1">keep</span>
+<span style="cursor:default" class="f12" title="count:3">kind</span>
+<span style="cursor:default" class="f11" title="count:1">kneeling</span>
+<span style="cursor:default" class="f13" title="count:4">like</span>
+<span style="cursor:default" class="f12" title="count:3">looks</span>
+<span style="cursor:default" class="f11" title="count:1">market</span>
+<span style="cursor:default" class="f12" title="count:3">mean</span>
+<span style="cursor:default" class="f11" title="count:1">mentioned</span>
+<span style="cursor:default" class="f11" title="count:1">minutes</span>
+<span style="cursor:default" class="f13" title="count:4">most</span>
+<span style="cursor:default" class="f11" title="count:1">Niel</span>
+<span style="cursor:default" class="f11" title="count:1">noticing</span>
+<span style="cursor:default" class="f11" title="count:1">obliged</span>
+<span style="cursor:default" class="f15" title="count:7">only</span>
+<span style="cursor:default" class="f11" title="count:1">Only</span>
+<span style="cursor:default" class="f11" title="count:1">Oscar</span>
+<span style="cursor:default" class="f13" title="count:4">own</span>
+<span style="cursor:default" class="f11" title="count:1">particular</span>
+<span style="cursor:default" class="f11" title="count:1">perfect</span>
+<span style="cursor:default" class="f11" title="count:1">pointing</span>
+<span style="cursor:default" class="f11" title="count:1">prefer</span>
+<span style="cursor:default" class="f20" title="count:12">Prism</span>
+<span style="cursor:default" class="f11" title="count:1">public</span>
+<span style="cursor:default" class="f11" title="count:1">puts</span>
+<span style="cursor:default" class="f11" title="count:1">reads</span>
+<span style="cursor:default" class="f11" title="count:1">really</span>
+<span style="cursor:default" class="f11" title="count:1">round</span>
+<span style="cursor:default" class="f11" title="count:1">said</span>
+<span style="cursor:default" class="f11" title="count:2">saw</span>
+<span style="cursor:default" class="f11" title="count:2">say</span>
+<span style="cursor:default" class="f13" title="count:4">seems</span>
+<span style="cursor:default" class="f11" title="count:1">Serious</span>
+<span style="cursor:default" class="f11" title="count:1">shirt</span>
+<span style="cursor:default" class="f15" title="count:7">should</span>
+<span style="cursor:default" class="f11" title="count:1">simply</span>
+<span style="cursor:default" class="f11" title="count:2">small</span>
+<span style="cursor:default" class="f12" title="count:3">tell</span>
+<span style="cursor:default" class="f11" title="count:2">their</span>
+<span style="cursor:default" class="f11" title="count:1">tongs</span>
+<span style="cursor:default" class="f11" title="count:1">Tries</span>
+<span style="cursor:default" class="f11" title="count:1">voice</span>
+<span style="cursor:default" class="f12" title="count:3">week</span>
+<span style="cursor:default" class="f12" title="count:3">When</span>
+<span style="cursor:default" class="f11" title="count:1">Who</span>
+<span style="cursor:default" class="f13" title="count:4">who</span>
+<span style="cursor:default" class="f11" title="count:1">whooping</span>
+<span style="cursor:default" class="f12" title="count:3">why</span>
+<span style="cursor:default" class="f11" title="count:1">wildly</span>
+<span style="cursor:default" class="f11" title="count:1">Will</span>
+<span style="cursor:default" class="f17" title="count:9">will</span>
+<span style="cursor:default" class="f11" title="count:1">Woolton</span>
+<span style="cursor:default" class="f20" title="count:12">You</span>
+</p>
+</div>
+</body>
+</html>
