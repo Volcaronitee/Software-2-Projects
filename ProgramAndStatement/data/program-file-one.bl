@@ -1,0 +1,26 @@
+PROGRAM FileOne IS
+
+  INSTRUCTION turnAround IS
+     turnleft
+     turnleft
+     turnright
+     turnleft
+  END turnAround
+  
+  INSTRUCTION spinAndInfect IS
+    WHILE next-is-empty DO
+        turnleft
+        infect
+    END WHILE
+  END spinAndInfect
+
+BEGIN
+  WHILE true DO
+    IF next-is-wall THEN
+        turnAround
+    END IF
+    move
+    spinAndInfect
+  END WHILE
+END FileOne
+

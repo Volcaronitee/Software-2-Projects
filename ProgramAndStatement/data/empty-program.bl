@@ -1,0 +1,4 @@
+PROGRAM empty-program IS
+
+BEGIN
+END empty-program
